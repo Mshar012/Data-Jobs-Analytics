@@ -1,4 +1,4 @@
-## Project: Data Jobs Abalytics
+## Project: Data Jobs Analytics
 
 ### Overview
 
