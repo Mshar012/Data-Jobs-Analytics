@@ -10,7 +10,7 @@ This GitHub repository contains a comprehensive data analysis project focused on
 
 The dataset comprises information about various jobs in the data industry, including job categories, salaries, experience levels, and employee residence. This dataset was sourced from Kaggle.
 
-2. libraries.ipynb
+1. libraries.ipynb
 
 This Jupyter Notebook file includes the importation of necessary libraries and packages required for the project. It ensures a clean and organized setup for subsequent analysis.
 
