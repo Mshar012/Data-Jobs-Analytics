@@ -28,6 +28,24 @@ Clone the repository to your local machine.
 Open and run the main_analysis.ipynb notebook to execute the entire analysis pipeline.
 Explore individual notebooks for specific functionalities.
 
+### Dataset Setup
+
+##### 1) Download Dataset:
+Obtain the dataset, "jobs_in_data.csv," from the repository.
+If you're using a different version of this dataset, make sure it's in CSV format.
+
+##### 2) Update File Path:
+If your dataset is not in the default location, adjust the file path in 'main_analysis.ipynb' to point to your dataset.
+
+###### Example: Update the file path based on your dataset location
+file_path = "path/to/your/dataset/jobs_in_data.csv"
+
+###### Load the dataset
+df = pd.read_csv(file_path)
+
+
+
+
 ### Dependencies
 
 Python 3.x
