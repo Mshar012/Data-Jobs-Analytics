@@ -44,16 +44,17 @@ file_path = "path/to/your/dataset/jobs_in_data.csv"
 df = pd.read_csv(file_path)
 
 
-
-
 ### Dependencies
 
 Python 3.x
 Pandas
-NumPy
 Plotly
 Tabulate
 
-### Contributing
+### Display Visualization 
 
-Feel free to contribute by suggesting improvements, reporting issues, or submitting pull requests. Your feedback is highly appreciated!
+View the notebook output on nbviewer: https://nbviewer.org/github/Mshar012/Data-Jobs-Analytics/blob/main/main_analysis.ipynb 
+
+
+
+
